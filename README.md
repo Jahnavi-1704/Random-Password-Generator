@@ -7,4 +7,4 @@ Description:
 
 -Then a random password is generated each time the program is run by utilizing the random function from the random module.
 
--This program uses a number of for loop to generate a password upto the user specified length and the if else loops for logic
+-This program uses a number of for loops to generate a password upto the user specified length and the if else loops for logic
