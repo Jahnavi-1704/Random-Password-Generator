@@ -1,4 +1,4 @@
-# Random-Password-Generator
+# Secure-Password-Originator
 Description:
 
 - This project generates random passwords for the user based on the length of password and criteria set by the user such as mixed password, or only uppercase, or only lowercase, or only digits, or only symbolic password.
